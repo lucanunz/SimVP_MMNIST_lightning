@@ -9,3 +9,5 @@ Large parts of the non-lightning code are taken from the model zoo of [OpenSTL](
 
 A short report is offered in this repository, and below we report the results obtained with the analyzed models.
 ![results](https://github.com/lucanunz/SimVP_MMNIST_lightning/blob/main/imgs/results.png)
+
+Project realized by me (luca.nunziante1999@gmail.com) and Giovanbattista Gravina (gianba.gravina7@gmail.com)
