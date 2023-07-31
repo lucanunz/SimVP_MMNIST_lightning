@@ -8,6 +8,7 @@ PyTorch lightning implementation of SimVP architecture. The Colab Notebook conta
 Large parts of the non-lightning code are taken from the model zoo of [OpenSTL](https://github.com/chengtan9907/OpenSTL)
 
 A short report is offered in this repository, and below we report the results obtained with the analyzed models.
+![comparison](https://github.com/gianni0907/SimVP_MMNIST_lightning/blob/main/imgs/comparison_table.png)
 ![results](https://github.com/lucanunz/SimVP_MMNIST_lightning/blob/main/imgs/results.png)
 
 
